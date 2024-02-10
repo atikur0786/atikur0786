@@ -20,7 +20,7 @@ Passionate full-stack software engineer with a keen eye for detail. Dedicated to
 
 💡 I'm on the lookout for collaborative opportunities in projects revolving around my stack, especially those that challenge conventional thinking and demand innovative solutions.
 
-📫 You can reach out to me via email at [atikursattermondal@gmail.com](atikursattermondal@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/atikur-satter-mondal-a302ba1a5).
+📫 You can reach out to me via email at atikursattermondal@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/atikur-satter-mondal-a302ba1a5).
 
 🌟 Feel free to explore my repositories and contributions.🚀✨
 
