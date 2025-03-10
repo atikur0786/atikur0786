@@ -4,10 +4,6 @@
 &nbsp;
 <a href="https://twitter.com/atikursatter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atikur-twitter" height="30" width="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/iam.atikur?igsh=MXNoZjhyam14OXc=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atikur-instagram" height="30" width="30" /></a>
-&nbsp;
-<a href="https://www.facebook.com/atikursatter.mondal?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikur-facebook" height="30" width="30" /></a>
-&nbsp;
 
 ## 🙌 Glad to see you here!
 
@@ -15,7 +11,7 @@ I am a passionate full-stack software engineer, dedicated to delivering impactfu
 
 ### 👨‍💻 About Me
 
-- 🚀 **Full-stack developer** with nearly 3 years of experience (will hit 3 years on December 1st, 2024!)
+- 🚀 **Full-stack developer** with 3+ years of experience
 - 🔧 Proficient in modern **Frontend** and **Backend** technologies
 - 🎯 Focused on creating efficient, scalable, and high-quality software solutions
 - 🌟 Always open to collaborating on challenging projects and innovative ideas
