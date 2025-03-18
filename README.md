@@ -1,9 +1,14 @@
-# Welcome to Atikur's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-<a href="https://www.linkedin.com/in/atikur-satter-mondal-a302ba1a5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-linkedin" height="30" width="30" /></a>
-&nbsp;
-<a href="https://twitter.com/atikursatter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atikur-twitter" height="30" width="30" /></a>
-&nbsp;
+<div id="header" align="center">
+  <h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Atikur Satter Mondal.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/atikur-satter-mondal-a302ba1a5">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/atikursatter">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
 ## 🙌 Glad to see you here!
 
@@ -85,9 +90,14 @@ I love working on projects that push the boundaries of conventional thinking. Le
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur0786&theme=dark" alt="GitHub Streak Stats">
-</p>
+<div align="center">
+    <a href="https://github.com/atikur0786">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur0786&theme=light&count_private=true&layout=compact" width="205" alt="Atikur's most used         languages" />
+    </a>
+    <a href="https://github.com/atikur0786">
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=atikur0786&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+    </a>
+</div>
 
 ---
 
