@@ -7,10 +7,13 @@
     <a href="https://twitter.com/atikursatter">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://atikur0786.github.io/atikurs-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+    </a>
   </div>
 </div>
 
-## 🙌 Glad to see you here!
+## 🙌 Welcome! Glad to see you here.
 
 I am a passionate full-stack software engineer, dedicated to delivering impactful solutions that drive meaningful change. I specialize in both frontend and backend development, constantly seeking out opportunities to expand my expertise and solve complex problems.
 
@@ -19,22 +22,16 @@ I am a passionate full-stack software engineer, dedicated to delivering impactfu
 - 🚀 **Full-stack developer** with 3+ years of experience
 - 🔧 Proficient in modern **Frontend** and **Backend** technologies
 - 🎯 Focused on creating efficient, scalable, and high-quality software solutions
-- 🌟 Always open to collaborating on challenging projects and innovative ideas
-- 📚 Continuous learner, staying updated with the latest tech trends
-- 🤝 Strong believer in clean code and best practices
-- 🎓 Regular contributor to the developer community
+- 🌐 Open for open-source contributions and collaboration on challenging tasks
+- 🎓 Lifelong learner, always exploring new technologies
+- 💡 Strong believer in clean code, best practices, and impactful solutions
 
 I love working on projects that push the boundaries of conventional thinking. Let's connect if you're interested in collaboration or simply want to explore my work.
 
-### 🎯 Current Focus
+### 📌 Portfolio
 
-- 🔍 Deepening expertise in microservices architecture
-- 📱 Exploring progressive web applications (PWAs)
-- 🚀 Mastering cloud-native development
-- 🛠️ Contributing to open-source projects
-- 🖥️ **Next.js** for server-side rendering and static site generation
-
-📧 **Contact:** You can reach out to me via email at **atikursattermondal@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/atikur-satter-mondal-a302ba1a5).
+- Visit my work: [My Portfolio](https://atikur0786.github.io/atikurs-portfolio)
+---
 
 ## 🛠️ Tech Stack
 
@@ -75,14 +72,12 @@ I love working on projects that push the boundaries of conventional thinking. Le
 ### 💻 Software and Tools
 
 <p>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-    <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black">
     <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white">
     <img alt="Claude" src="https://img.shields.io/badge/Claude-F6C915?logo=Anthropic&logoColor=white">
     <img alt="Google Search" src="https://img.shields.io/badge/Google_Search-4285F4?logo=google&logoColor=white">
@@ -102,5 +97,7 @@ I love working on projects that push the boundaries of conventional thinking. Le
 ---
 
 <p align="center">
-Thank you for visiting my profile! Let's build something amazing together! 🚀✨
+Thank you for visiting my profile! <br>
+Feel free to connect or reach out for open source and collaboration.<br>
+Let's build something amazing together! 🚀✨
 </p>
