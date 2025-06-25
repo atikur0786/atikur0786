@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://atikur0786.github.io/atikurs-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
 </div>
