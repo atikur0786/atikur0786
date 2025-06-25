@@ -86,18 +86,20 @@ I love working on projects that push the boundaries of conventional thinking. Le
 ### 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/atikur0786">
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=atikur0786&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+    </a>
     <a href="https://github.com/atikur0786">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur0786&theme=light&count_private=true&layout=compact" width="205" alt="Atikur's most used         languages" />
     </a>
-    <a href="https://github.com/atikur0786">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=atikur0786&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
-    </a>
+    
 </div>
 
 ---
 
-<p align="center">
-Thank you for visiting my profile! <br>
-Feel free to connect or reach out for open source and collaboration.<br>
-Let's build something amazing together! 🚀✨
-</p>
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  <p align="center">Thank you for visiting my profile! <br>Feel free to connect or reach out for open source and collaboration.<br>Let's build something amazing together! 🚀✨</p>
+  <sub>Built with ❤️ by Atikur Satter Mondal</sub>
+</div>
